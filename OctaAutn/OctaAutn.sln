@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33829.357
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OctaAutn", "OctaAutn\OctaAutn.csproj", "{DEE7F60C-0AF1-4849-B69F-F6EA4C940653}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DEE7F60C-0AF1-4849-B69F-F6EA4C940653}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DEE7F60C-0AF1-4849-B69F-F6EA4C940653}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DEE7F60C-0AF1-4849-B69F-F6EA4C940653}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DEE7F60C-0AF1-4849-B69F-F6EA4C940653}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {32C5704C-42A8-47CF-B2A5-C5D443922DD3}
+	EndGlobalSection
+EndGlobal
